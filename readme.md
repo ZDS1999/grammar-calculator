@@ -1,4 +1,4 @@
-## Grammer Calculator
+## Grammar Calculator
 
 A simple calculator made in python3.8 with PySide5.14, 
 using resursive-descent algorithm to do the calculation.
